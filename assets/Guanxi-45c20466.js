@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./index-71a3b5c5.js";const n={},o={class:"h-100vh flex items-center justify-center font-bold text-28px"};function s(r,_){return t(),c("div",o," 哈哈 之後有時間再弄喔～ ")}const f=e(n,[["render",s]]);export{f as default};
